@@ -8,3 +8,4 @@ var config = {
     storageBucket: "to-do-react-firebasedb.appspot.com",
     messagingSenderId: "329421369986"
   };
+  firebase.initializeApp(config);

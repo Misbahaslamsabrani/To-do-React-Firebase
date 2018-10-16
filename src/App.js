@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import './App.css';
-import FrontCom from './components/dashboard'
+import FrontCom from './components/dashboard';
 
 class App extends Component {
   render() {
